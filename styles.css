@@ -61,3 +61,11 @@ span{
 h1, h2{
   font-style: italic;
 }
+
+a{
+  color: rgb(58, 189, 201);
+  text-decoration: none;
+}
+a:hover{
+  color: yellow;
+}
