@@ -6,6 +6,7 @@ body {
   background-position-y: center;
   color: white;
   font-family: Geneva, sans-serif;
+  background-image: url("hatter.jpg");
 }
 
 #tartalom {
@@ -52,7 +53,7 @@ span{
   font-weight: bold;
 }
 
-.keret{
+.keret img{
   max-width: 800px;
   padding-bottom: 10px;
   border-bottom: rgb(58, 189, 201) solid 3px;
@@ -68,4 +69,8 @@ a{
 }
 a:hover{
   color: yellow;
+}
+
+p{
+   text-indent: 20px;
 }
