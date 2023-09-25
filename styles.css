@@ -10,8 +10,10 @@ body {
 
 #tartalom {
   background-color: rgba(4, 42, 63, 0.8);
-  margin-bottom: 20px;
   padding: 40px;
+  width: 900px;
+  margin: 20px auto auto auto;
+
 }
 
 .keret {
