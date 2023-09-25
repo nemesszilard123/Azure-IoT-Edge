@@ -51,3 +51,9 @@ span{
   color: cyan;
   font-weight: bold;
 }
+
+.keret{
+  max-width: 800px;
+  padding-bottom: 10px;
+  border-bottom: rgb(58, 189, 201) solid 3px;
+}
